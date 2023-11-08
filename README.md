@@ -1,6 +1,6 @@
 <h1 align="left">Devvrat Rajesh Mungekar</h1>
 
-<h3 align="center">A passionate Software Developer in Canada</h3>
+<h3 align="center">A passionate Software Developer based in Canada</h3>
 
 ### About Me
 • MSc in Applied Modelling and Quantitative Analysis: Big Data Analysis from Trent University\
@@ -26,8 +26,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devvrat53&show_icons=true&locale=en&layout=compact" alt="devvrat53" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devvrat53&show_icons=true&locale=en" alt="devvrat53" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devvrat53&" alt="devvrat53" /></p>
 
 
 ### How to reach me :
