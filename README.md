@@ -32,9 +32,9 @@
 
 
 ### About Me
-• MSc in Applied Modelling and Quantitative Analysis: Big Data Analysis from the Trent University\
+• MSc in Applied Modelling and Quantitative Analysis: Big Data Analysis from Trent University\
 • BE Computer Science from the University of Mumbai\
-• Proficient in programming languages, web technologies, problem-solving and front-end development\
+• Proficient in programming languages, web technologies, problem-solving, and front-end development\
 • Passionate about computer science and software engineering\
 • Excellent communication skills for effective teamwork and client interaction\
 ➼ Expertise in applying Scrum and Agile methodologies for efficient project management\
@@ -46,7 +46,7 @@
 ### How to reach me :
 - 📫 Contact me @:
  **devvratmungekar53@gmail.com**
-- <a href="https://www.linkedin.com/in/devvrat-mungekar/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/devvrat-mungekar/ height="20" width="20" /></a>
+- <a href="https://www.linkedin.com/in/devvrat-mungekar/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/devvrat-mungekar/" height="20" width="20" /></a>
 <a href="https://www.instagram.com/master_mungekar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_gatsby18" height="20" width="20" /></a>
 
 
