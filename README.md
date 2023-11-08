@@ -47,7 +47,7 @@
 - 📫 Contact me @:
  **devvratmungekar53@gmail.com**
 - <a href="https://www.linkedin.com/in/devvrat-mungekar/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/devvrat-mungekar/ height="20" width="20" /></a>
-<a href="https://www.instagram.com/master_mungekar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_gatsby18" height="20" width="20" /></a>
+<a href="https://www.instagram.com/master_mungekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_gatsby18" height="20" width="20" /></a>
 
 
 - ⚡ Fun fact: **I'm a DC Fan🛑**
