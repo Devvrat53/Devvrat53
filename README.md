@@ -2,6 +2,10 @@
 
 <h3 align="center">A passionate Software Developer in Canada</h3>
 
+### About Me
+• MSc in Applied Modelling and Quantitative Analysis: Big Data Analysis from Trent University\
+• BE Computer Science from the University of Mumbai
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devvrat53&label=Profile%20views&color=0e75b6&style=flat" alt="devvrat53" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devvrat53" alt="devvrat53" /></a> </p>
@@ -26,6 +30,15 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devvrat53&" alt="devvrat53" /></p>
 
 
+### How to reach me :
+- 📫 Contact me @:
+ **devvratmungekar53@gmail.com**
+- <a href="https://www.linkedin.com/in/devvrat-mungekar/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/devvrat-mungekar/" height="20" width="20" /></a>
+<a href="https://www.instagram.com/master_mungekar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_gatsby18" height="20" width="20" /></a>
+
+
+
+- ⚡ Fun fact: **I'm a DC Fan🛑**
 
 
 
