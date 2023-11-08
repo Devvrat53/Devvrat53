@@ -1,3 +1,5 @@
+<h1 align="left">Devvrat Rajesh Mungekar</h1>
+
 <h3 align="center">A passionate Software Developer in Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devvrat53&label=Profile%20views&color=0e75b6&style=flat" alt="devvrat53" /> </p>
@@ -28,18 +30,12 @@
 
 
 ### { Welcome }
-![github-header-image](https://github.com/Devendra-23/Devendra-23/assets/94075388/a6a944e5-c3de-4f58-94c6-24e5d9ca21ab)
+
 
 
 ### About Me
 • MSc in Applied Modelling and Quantitative Analysis: Big Data Analysis from Trent University\
-• BE Computer Science from the University of Mumbai\
-• Proficient in programming languages, web technologies, problem-solving, and front-end development\
-• Passionate about computer science and software engineering\
-• Excellent communication skills for effective teamwork and client interaction\
-➼ Expertise in applying Scrum and Agile methodologies for efficient project management\
-➼ Strong determination to become a skilled Web Developer and Software Engineer.
-
+• BE Computer Science from the University of Mumbai
 
 <img align="centre" alt="Coding" height="400" width="1000"  src="https://giffiles.alphacoders.com/165/16566.gif" >
 
