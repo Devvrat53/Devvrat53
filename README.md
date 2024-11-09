@@ -1,10 +1,11 @@
 <h1 align="left">Devvrat Rajesh Mungekar</h1>
 
-<h3 align="center">A passionate Software Developer based in Canada🇨🇦</h3>
+<h3 align="center">A passionate Data Scientist in Canada🇨🇦</h3>
 
 ### About Me
-• MSc in Applied Modelling and Quantitative Analysis: Big Data Analysis from Trent University\
-• BE Computer Science from the University of Mumbai
+• Data Scientist in LTIMindtree\
+• M.Sc. in Applied Modelling and Quantitative Analysis: Big Data Analysis from Trent University\
+• B.E. in Computer Science from the University of Mumbai
 
 ### How to reach me :
 - 📫 Contact me @:
