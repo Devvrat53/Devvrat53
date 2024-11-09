@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Data Scientist in Canada🇨🇦</h3>
 
 ### About Me
-• Data Scientist in LTIMindtree\
+• Data Scientist at LTIMindtree\
 • M.Sc. in Applied Modelling and Quantitative Analysis: Big Data Analysis from Trent University\
 • B.E. in Computer Science from the University of Mumbai
 
