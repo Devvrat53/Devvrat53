@@ -1,6 +1,6 @@
 <h1 align="left">Devvrat Rajesh Mungekar</h1>
 
-<h3 align="center">A passionate Data Scientist in Canada🇨🇦</h3>
+<h3 align="center">A passionate Data Specialist in Canada🇨🇦</h3>
 
 ### About Me
 • Data Scientist at LTIMindtree\
